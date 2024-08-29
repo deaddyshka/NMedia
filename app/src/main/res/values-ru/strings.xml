@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Привет Мир!</string>
-    //111
+    <string name="hello">НМедиа!</string>
 </resources>

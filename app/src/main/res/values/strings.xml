@@ -2,5 +2,7 @@
     <string name="app_name" translatable="false">NMedia</string>
     <string name="hello">Hello World!</string>
     <string name="description_post_author_avatar" translatable="false">Post author avatar</string>
+    <string name="amount_liked" translatable="false">Amount liked</string>
+    <string name="amount_share" translatable="false">Amount share</string>
     <string name="description_post_menu" translatable="false">Post menu</string>
 </resources>
